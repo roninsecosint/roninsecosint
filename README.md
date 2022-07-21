@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**roninsecosint/roninsecosint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a security enginner, OSINT enthusiast and a ethical hackr**
 
-Here are some ideas to get you started:
+- :hammer: Currently working on OSINT project to collect information based on usernames
+- 🌱 Currently learning Rust 
+- :watch: 3 years of professional Cyber Security Experience in vulnerability assessment, social enginnering and physical security assessments 
+- :bat: CTF player at TryHackMe & HackTheBox 
+- :books: Reading blogs & articles regarding OSINT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on
+<p align="center">
+<a href="https://github.com/roninsecosint"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://twitter.com/roninsecosint"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
