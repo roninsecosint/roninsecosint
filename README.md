@@ -4,7 +4,7 @@
 
 - :hammer: Currently working on OSINT project to collect information based on usernames
 - 🌱 Currently learning Rust 
-- :watch: 3 years of professional Cyber Security Experience in vulnerability assessment, social enginnering and physical security assessments 
+- :watch: 3 years professional Cyber Security Experience in Vulnerability assessment, social enginnering and physical security assessments 
 - :bat: CTF player at TryHackMe & HackTheBox 
 - :books: Reading blogs & articles regarding OSINT
 
